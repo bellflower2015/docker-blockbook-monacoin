@@ -1,6 +1,6 @@
 # docker-blockbook-monacoin
 
-Dockerfile to launch Blockbook for Monacoin
+Blockbook Dockerfile for Monacoin
 
 ## Usage (directly from Docker Hub)
 
